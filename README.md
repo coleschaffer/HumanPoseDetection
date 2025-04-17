@@ -4,3 +4,5 @@ The human pose detection iOS app does not collect any user data of any kind. The
 It just allows the user to take pictures of themself to generate a "skeleton" outline.
 
 If you wish to verify this for yourself, see the source code at https://github.com/coleschaffer/HumanPoseDetection
+
+Users can get support via emailing me at coleschaffer6@gmail.com.
